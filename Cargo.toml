@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_eza"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS eza component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_eza"
+path = "src/lib.rs"
