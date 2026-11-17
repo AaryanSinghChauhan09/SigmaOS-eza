@@ -3,7 +3,7 @@ name = "SigmaOS-eza"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "eza component"
+description = "SigmaOS SigmaOS-eza component"
 upstream = []
 
 [contract]
